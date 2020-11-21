@@ -1,7 +1,7 @@
 <?php
 
-$DBuser = 'root';
-$DBpass = 'tiger';
+$DBuser = 'docker';
+$DBpass = 'docker';
 $pdo = null;
 
 try{
